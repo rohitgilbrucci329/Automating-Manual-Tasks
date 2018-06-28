@@ -21,6 +21,6 @@ which will make folders in this directory with same names as those of the dicom 
 
 Note: 
 
-1) This code has been written using windows commands, using docker toolbox.
+1) This code has been written using windows commands, and the python code is run on docker toolbox.
 2) Keep all other windows closed while running the code since it may affect the performance speed.
 3) Since this code runs by locating images on the screen and keyboard commands, do not interrupt the task in between/Do not perform any other task while the code is running since then the task may remain incomplete.
