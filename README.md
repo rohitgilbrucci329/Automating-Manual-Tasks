@@ -24,3 +24,7 @@ Note:
 1) This code has been written using windows commands, and the python code is run on docker toolbox.
 2) Keep all other windows closed while running the code since it may affect the performance speed.
 3) Since this code runs by locating images on the screen and keyboard commands, do not interrupt the task in between/Do not perform any other task while the code is running since then the task may remain incomplete.
+
+# Results
+I have uploaded a working demonstration of this program in this video. Please check out the link below.
+https://www.youtube.com/watch?v=0qTsD0-3gW4&feature=youtu.be 
