@@ -13,11 +13,11 @@ D:\Project Files\DCM FILE where all the dicom files were stored.
 5) For doing this, once manually open one of the dicom files from the folder "D:\Project Files\DCM FILE"
 so that this becomes the default directory of operation for radiant.
 
-# Imp
-6) After this, first make a folder "Dicom images" in D:\ drive, and run the the code folder.py
+# Important
+1) After this, first make a folder "Dicom images" in D:\ drive, and run the the code folder.py
 which will make folders in this directory with same names as those of the dicom files.
 
-7) Minimise all the other windows (better to close) and run automate.py 
+2) Minimise all the other windows (better to close) and run automate.py 
 
 Note: 
 
